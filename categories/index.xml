@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tanapat&#39;s Blog</title>
-    <link>https://someact.github.io/tanapatblog/categories/</link>
+    <link>http://localhost:1313/tanapatblog/categories/</link>
     <description>Recent content in Categories on Tanapat&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>tanapats68@nu.ac.th (Tanapat Surat)</managingEditor>
     <webMaster>tanapats68@nu.ac.th (Tanapat Surat)</webMaster>
     <copyright>© 2025 Tanapat Surat</copyright>
-    <atom:link href="https://someact.github.io/tanapatblog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tanapatblog/categories/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

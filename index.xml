@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tanapat&#39;s Blog</title>
-    <link>https://someact.github.io/tanapatblog/</link>
+    <link>http://localhost:1313/tanapatblog/</link>
     <description>Recent content on Tanapat&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>tanapats68@nu.ac.th (Tanapat Surat)</managingEditor>
     <webMaster>tanapats68@nu.ac.th (Tanapat Surat)</webMaster>
     <copyright>© 2025 Tanapat Surat</copyright>
-    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://someact.github.io/tanapatblog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tanapatblog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/tanapatblog/about/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <author>tanapats68@nu.ac.th (Tanapat Surat)</author>
+      <guid>http://localhost:1313/tanapatblog/about/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Job of interest</title>
-      <link>https://someact.github.io/tanapatblog/posts/1753511948605-job-of-interest/</link>
+      <link>http://localhost:1313/tanapatblog/posts/1753511948605-job-of-interest/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
       <author>tanapats68@nu.ac.th (Tanapat Surat)</author>
-      <guid>https://someact.github.io/tanapatblog/posts/1753511948605-job-of-interest/</guid>
+      <guid>http://localhost:1313/tanapatblog/posts/1753511948605-job-of-interest/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://someact.github.io/tanapatblog/posts/1753511948605-job-of-interest/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/tanapatblog/posts/1753511948605-job-of-interest/featured.png" />
     </item>
     
     <item>
       <title>First introduce</title>
-      <link>https://someact.github.io/tanapatblog/posts/1753443925490-first-introduce/</link>
+      <link>http://localhost:1313/tanapatblog/posts/1753443925490-first-introduce/</link>
       <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
       <author>tanapats68@nu.ac.th (Tanapat Surat)</author>
-      <guid>https://someact.github.io/tanapatblog/posts/1753443925490-first-introduce/</guid>
+      <guid>http://localhost:1313/tanapatblog/posts/1753443925490-first-introduce/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://someact.github.io/tanapatblog/posts/1753443925490-first-introduce/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://someact.github.io/tanapatblog/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>tanapats68@nu.ac.th (Tanapat Surat)</author>
-      <guid>https://someact.github.io/tanapatblog/about/</guid>
-      <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/tanapatblog/posts/1753443925490-first-introduce/featured.jpg" />
     </item>
     
   </channel>

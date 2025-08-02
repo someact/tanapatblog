@@ -3,31 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://someact.github.io/tanapatblog/posts/1753511948605-job-of-interest/</loc>
+    <loc>http://localhost:1313/tanapatblog/about/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tanapatblog/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tanapatblog/posts/</loc>
+    <lastmod>2025-07-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tanapatblog/posts/1753511948605-job-of-interest/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://someact.github.io/tanapatblog/posts/</loc>
-    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://someact.github.io/tanapatblog/</loc>
-    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://someact.github.io/tanapatblog/posts/1753443925490-first-introduce/</loc>
+    <loc>http://localhost:1313/tanapatblog/posts/1753443925490-first-introduce/</loc>
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://someact.github.io/tanapatblog/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
